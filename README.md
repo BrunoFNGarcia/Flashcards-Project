@@ -1,7 +1,7 @@
 # Description
 
 This project was bootstrapped with [Create React App] and completed as part of the Codecademy Front-End Engineer Career Path. Routing and components were already implemented.
-My task was to create the Redux part for three slices (Cards, Quizzes and Topics), using Redux ToolKit.
+My task was to create the Redux part for three slices (Cards, Quizzes and Topics), managing component states, actions, reducers and extra reducers, using Redux ToolKit.
 
 ## How to Use
 
