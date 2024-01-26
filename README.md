@@ -5,7 +5,7 @@ My task was to create the Redux part for three slices (Cards, Quizzes and Topics
 
 ## How to Use
 
-Open <https://bruno-flashcards-project.netlify.app/>. It's a simple application to create Topics and Quizzes for each Topic. It can help you study, act as a planner or even create quizzes to challenge your friends!
+Open <https://bruno-flashcards-project.netlify.app/>. It's a simple application to create Topics and Quizzes. It can help you study, act as a planner or even create quizzes to challenge your friends!
 The usability is very simple. There are three menu itens:
 
 * Topics: here you have all the topics you've created, with their respective name, icon and quizzes. You can click in a topic to view all the quizzes associated.
